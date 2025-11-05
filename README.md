@@ -185,20 +185,6 @@ deepagent-food-tours/
 5. Dashboard Creator agent generates an HTML report
 6. User views the complete tour plan at http://localhost:3002
 
-## API Costs
-
-Approximate costs per scan (as of 2024):
-
-- **Google Places API**:
-  - Nearby Search: $32/1000 requests
-  - Place Details: $17/1000 requests
-  - Basic scan (10 points, 50 places): ~$1.50
-  
-- **Tavily API**: $1/1000 requests (generous free tier)
-
-- **LLM APIs** (per tour plan):
-  - OpenAI GPT-4: $0.10-0.50
-  - Anthropic Claude: $0.08-0.40
 
 ## Troubleshooting
 
