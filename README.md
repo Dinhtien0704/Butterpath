@@ -250,17 +250,6 @@ MIT
 - Built with [LangChain DeepAgents](https://github.com/langchain-ai/deepagents)
 - Uses Google Maps Platform APIs
 - Powered by Tavily Research API
-- LLM support via Anthropic Claude and OpenAI GPT-4
-
-## Sharing with LangChain
-
-This project is designed to be shared with the LangChain community as a reference implementation of DeepAgents. The code demonstrates:
-
-- Multi-agent coordination with specialized subagents
-- Tool integration (Google Maps, Tavily, File System)
-- Streaming responses and progress tracking
-- Real-world production considerations (cost optimization, error handling)
-- Clean separation between UI, orchestration, and AI layers
 
 Feel free to use this as a template for your own DeepAgent projects.
 
