@@ -7,26 +7,18 @@ AI-powered food tour planner using [LangChain DeepAgents](https://github.com/lan
 ### Interactive Map Interface
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.32.22%E2%80%AFAM.png" width="800" alt="Map interface with search points">
 
-### Creating Search Points
-<img src="screenshots/Screenshot%202025-11-05%20at%2012.47.05%E2%80%AFAM.png" width="800" alt="Adding search points to the map">
-
-### AI Prompt Input
-<img src="screenshots/Screenshot%202025-11-05%20at%2012.48.38%E2%80%AFAM.png" width="800" alt="Natural language AI prompt">
-
 ### DeepAgent Planning Process
+<img src="screenshots/Screenshot%202025-11-05%20at%2012.47.05%E2%80%AFAM.png" width="800" alt="Adding search points to the map">
+<img src="screenshots/Screenshot%202025-11-05%20at%2012.48.38%E2%80%AFAM.png" width="800" alt="Natural language AI prompt">
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.49.23%E2%80%AFAM.png" width="800" alt="AI agents planning the tour">
+<img src="screenshots/Screenshot%202025-11-05%20at%2012.50.43%E2%80%AFAM.png" width="800" alt="Reviews and neighborhood insights">
 
-### Generated Tour Dashboard (Header)
+
+### Generated Tour Dashboard
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.49.50%E2%80%AFAM.png" width="800" alt="Beautiful HTML tour dashboard header">
-
-### Establishment Cards with Photos
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.50.06%E2%80%AFAM.png" width="800" alt="Establishment details with photos and reviews">
-
-### Tour Recommendations
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.50.14%E2%80%AFAM.png" width="800" alt="Personalized tour recommendations">
 
-### Detailed Reviews and Insights
-<img src="screenshots/Screenshot%202025-11-05%20at%2012.50.43%E2%80%AFAM.png" width="800" alt="Reviews and neighborhood insights">
 
 ## Features
 
