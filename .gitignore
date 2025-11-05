@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+logs/
+output/
+dashboards/
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
