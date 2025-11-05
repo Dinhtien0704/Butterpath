@@ -5,7 +5,7 @@ AI-powered food tour planner using [LangChain DeepAgents](https://github.com/lan
 ## Screenshots
 
 ### Interactive Map Interface
-<img src="screenshots/Screenshot%202025-11-05%20at%2012.46.50%E2%80%AFAM.png" width="800" alt="Map interface with search points">
+<img src="screenshots/Screenshot%202025-11-05%20at%2012.32.22%E2%80%AFAM.png" width="800" alt="Map interface with search points">
 
 ### Creating Search Points
 <img src="screenshots/Screenshot%202025-11-05%20at%2012.47.05%E2%80%AFAM.png" width="800" alt="Adding search points to the map">
