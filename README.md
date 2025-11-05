@@ -61,7 +61,7 @@ The project uses a multi-agent architecture powered by LangChain DeepAgents:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/deepagent-food-tours.git
+git clone https://github.com/muratcankoylan/deepagent-food-tours.git
 cd deepagent-food-tours
 ```
 
