@@ -1,11 +1,11 @@
 # Persona Testing Module
 
-Test alternative writing personas for neighborhood descriptions using OpenRouter's Kimi K2 Thinking model.
+Test alternative writing personas for neighborhood descriptions using Kimi K2 Thinking model with OpenRouter.
 
 ## Purpose
 
 Explore how different AI models approach creative writing by comparing:
-- **Claude Sonnet 4**: Professional tour guide tone with comprehensive coverage
+- **Claude Sonnet 4.5**: Professional tour guide tone with comprehensive coverage
 - **Kimi K2 Thinking**: Authentic local perspective with emotional intelligence
 
 This module demonstrates how to leverage OpenRouter for enhanced writing capabilities and emotional resonance in AI-generated content.
@@ -62,7 +62,7 @@ Each comparison includes:
 
 ## Why Kimi K2 Thinking?
 
-[Kimi K2 Thinking](https://openrouter.ai/moonshotai/kimi-k2-thinking) is a creative writing model with strong emotional intelligence. The "thinking" variant reasons about style and tone before generating output, resulting in more authentic and engaging content.
+[Kimi K2 Thinking](https://openrouter.ai/moonshotai/kimi-k2-thinking) is the best creative writing model with strong emotional intelligence. The "thinking" variant reasons about style and tone before generating output, resulting in more authentic and engaging content.
 
 ### Key Advantages:
 - Strong emotional intelligence and authentic voice
